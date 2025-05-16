@@ -1,0 +1,186 @@
+[
+    {
+        "id": 2014095135,
+        "type": "full",
+        "description": {
+            "id": "2014095135",
+            "name": "-JACKIE--E个咗--",
+            "gender": "男",
+            "residence": "印尼雅加达",
+            "age": 30,
+            "occupation": "中资企业印尼分公司高管",
+            "edu_level": "MBA",
+            "income_level": "高",
+            "marital_status": "已婚",
+            "motivation": "推动企业本土化发展，提升企业竞争力，同时促进印尼经济社会发展",
+            "emotional_response": "面对挑战时保持冷静，注重长期利益而非短期得失",
+            "decision_style": "理性分析，注重数据和信息，倾向于团队合作",
+            "family_role": "家庭支柱",
+            "job_role": [
+                "决策者",
+                "战略规划者",
+                "团队领导者"
+            ],
+            "social_network": [
+                "中资企业印尼分公司同事",
+                "印尼政府官员",
+                "印尼本地合作伙伴",
+                "国际教育专家",
+                "印尼社区领袖"
+            ],
+            "social_identity": "中印尼商业合作桥梁",
+            "cultural_background": "苏迪曼出生于印尼的一个商人家庭，从小受到家族企业的影响，对商业有着浓厚的兴趣。他在印尼完成了本科教育，后赴中国深造获得MBA学位。他的价值观深受中印尼两国文化的影响，既注重印尼的传统美德，也认同中国的商业智慧。",
+            "social_class": "中产阶级以上",
+            "social_norms": "遵守印尼的商业法律和习俗，同时尊重中国的商业文化和习惯",
+            "life_experience": "苏迪曼在商业领域拥有超过20年的经验，曾在中国和印尼的企业担任高管，见证两国经济发展，成功推动多个项目。",
+            "education_training": "",
+            "social_participation": "积极参与中印尼商业论坛和交流活动，推动企业合作。",
+            "opinion": ""
+        }
+    },
+    {
+        "id": 5251493339,
+        "type": "full",
+        "description": {
+            "id": "5251493339",
+            "name": "-听风眠-",
+            "gender": "女",
+            "residence": "中国",
+            "age": 8,
+            "occupation": "中学生",
+            "edu_level": "初中",
+            "income_level": "低",
+            "marital_status": "未婚",
+            "motivation": "学习和个人成长，同时希望通过微博表达观点并影响他人",
+            "emotional_response": "面对挑战时直接，注重当下的感受和结果",
+            "decision_style": "理性分析，但容易受到同龄人和社交媒体的影响",
+            "family_role": "孩子",
+            "job_role": [],
+            "social_network": [
+                "同学",
+                "朋友",
+                "社会活动参与者"
+            ],
+            "social_identity": "中学生，积极参与微博表达观点",
+            "cultural_background": "出生于中国一个普通家庭，从小接受良好的教育，喜欢阅读和学习新知识，关注社会热点问题。",
+            "social_class": "中产阶级或中下层",
+            "social_norms": "遵守中国的法律法规，积极参与社会活动，并关注环保等议题。",
+            "life_experience": "作为中学生，经历了学校的学习生活，参与了各种课外活动，结识了许多朋友，并通过微博了解社会动态和热点事件。",
+            "education_training": "完成了小学教育，现在正在读初中或高中，成绩优秀，尤其是文科科目。",
+            "social_participation": "积极参与学校的各项活动，并在微博上发表对社会问题的看法，关注环保、正义等议题。",
+            "opinion": "认为中学生应该有更多的声音被听到，他们在社交媒体上的发言不应被忽视。支持更多关于社会责任和正义的讨论，希望自己的观点能够引起更多的关注和讨论。"
+        }
+    },
+    {
+        "id": 6405476742,
+        "type": "full",
+        "description": {
+            "id": "6405476742",
+            "name": "0MrKyo0",
+            "gender": "男",
+            "residence": "厦门",
+            "age": 35,
+            "occupation": "高校新闻传播学教师",
+            "edu_level": "博士学位",
+            "income_level": "中等偏上",
+            "marital_status": "未婚",
+            "motivation": "提升新闻传播专业教学质量，促进学术与实践相结合",
+            "emotional_response": "面对挑战时冷静分析，注重长期利益",
+            "decision_style": "理性分析，关注数据和实际效果",
+            "family_role": "独立个体",
+            "job_role": [
+                "教育者",
+                "研究者",
+                "倡导者"
+            ],
+            "social_network": [
+                "学术同行",
+                "媒体从业者",
+                "学生及家长",
+                "政策制定者"
+            ],
+            "social_identity": "教育实践与理论结合的倡导者",
+            "cultural_background": "在中国传统文化和现代价值观中成长，接受高等教育并关注国际趋势",
+            "social_class": "中产阶级以上",
+            "social_norms": "遵守中国的教育和社会规范，并愿意开放心态学习国际经验",
+            "life_experience": "长期从事新闻传播学教育和研究工作，积极参与学术讨论和社会活动",
+            "education_training": "厦门本地大学本科，国内知名高校新闻传播学博士，参与多场教育改革研讨会",
+            "social_participation": "活跃于学术会议、教育论坛及学生辅导活动",
+            "opinion": "支持鲁班工坊的发展，认为其有助于促进技术交流和职业培训。希望这种平台能够帮助培养更多专业人才，并推动中印尼两国在教育和经济领域的合作。"
+        }
+    },
+    {
+        "id": 1680112874,
+        "type": "full",
+        "description": {
+            "id": "1680112874",
+            "name": "1-鸥",
+            "gender": "男",
+            "residence": "中国主要城市",
+            "age": 35,
+            "occupation": "新闻传播领域从业者",
+            "edu_level": "大学本科及以上",
+            "income_level": "中等",
+            "marital_status": "未婚/已婚",
+            "motivation": "推动新闻传播行业的发展，提升教育质量，为学生创造更好的未来",
+            "emotional_response": "面对挑战时保持冷静，注重长期影响而非短期利益",
+            "decision_style": "理性分析，依赖数据和团队合作",
+            "family_role": "家庭核心成员，支持家人成长",
+            "job_role": [
+                "行业实践者",
+                "教育工作者"
+            ],
+            "social_network": [
+                "新闻传播学者",
+                "媒体从业者",
+                "校友网络"
+            ],
+            "social_identity": "新闻传播领域的参与者与观察者",
+            "cultural_background": "在中国传统文化中成长，接受现代新闻传播教育，具有开放和批判性思维",
+            "social_class": "中产阶级",
+            "social_norms": "遵守职业道德和社会规范，积极参与行业交流",
+            "life_experience": "在新闻传播领域工作多年，参与过多个项目，见证行业发展变化，持续关注学术动态",
+            "education_training": "接受过新闻传播相关教育，持续参加行业培训和研讨会",
+            "social_participation": "积极参与新闻传播相关的学术会议和教育交流活动，促进实践与理论结合",
+            "opinion": "支持张雪峰对新闻传播专业的讨论，认为开放对话有助于揭示问题并推动改进。期待通过实际案例和经验分享，提升行业的质量和吸引力。"
+        }
+    },
+    {
+        "id": 6878670148,
+        "type": "full",
+        "description": {
+            "id": "6878670148",
+            "name": "1988年的春卷",
+            "gender": "男",
+            "residence": "厦门",
+            "age": 35,
+            "occupation": "高校新闻传播学讲师",
+            "edu_level": "硕士",
+            "income_level": "中高",
+            "marital_status": "已婚",
+            "motivation": "推动新闻传播学教育的发展，培养具有社会责任感的学生",
+            "emotional_response": "面对挑战时保持冷静，注重通过理性分析解决问题",
+            "decision_style": "注重数据和事实，倾向于合作与听取多方意见",
+            "family_role": "家庭经济支柱",
+            "job_role": [
+                "教学者",
+                "学术研究者",
+                "社会活动参与者"
+            ],
+            "social_network": [
+                "高校同事",
+                "新闻传播学学生",
+                "行业专家",
+                "教育机构代表"
+            ],
+            "social_identity": "新闻传播学教育者，致力于提升教学质量与社会责任感",
+            "cultural_background": "出生于厦门，接受本地教育，深受沿海开放文化影响，注重理论与实践结合",
+            "social_class": "中产阶级",
+            "social_norms": "遵守学术伦理和职业道德，积极参与社会公益活动",
+            "life_experience": "在新闻传播学领域有15年教学经验，关注专业发展与社会责任",
+            "education_training": "厦门本地大学本科，国内知名传媒学院硕士，多次参加教育研讨会",
+            "social_participation": "积极参与教育会议和公益活动，推动新闻传播学教育改革",
+            "opinion": "支持张雪峰的观点，认为新闻传播学教师应更多倾听行业实践者的声音，提升专业教学水平"
+        }
+    }
+]

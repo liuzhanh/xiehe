@@ -1,0 +1,19 @@
+[project]
+name = "LH"
+version = "0.1.0"
+description = "llm414"
+authors = [
+    {name = "LH", email = "237795826@qq.com"},
+]
+dependencies = []
+requires-python = ">=3.9"
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
+
+
+[tool.pdm]
+distribution = true

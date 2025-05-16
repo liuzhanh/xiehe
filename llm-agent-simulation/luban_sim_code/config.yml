@@ -1,0 +1,32 @@
+# 身份信息json文件位置（人物信息）
+person_file: "./config/luban/Combined_Personas.json"
+
+# 本次测试结果的文件夹名（log 与 memory 文件夹将根据此名称建立）
+exp_name: "exp_test_3"
+
+# 模拟回合数（如果未通过命令行指定，将以此为默认回合数）
+round_num: 3
+
+# 大模型相关配置：
+
+# 对话模型名称（将传递给 ollama_lib.py）
+chat_model: "deepseek-r1:1.5b"
+
+# 嵌入模型名称
+embedding_model: "quentinz/bge-large-zh-v1.5:latest"
+
+# 模型服务的 base url
+base_url: "http://127.0.0.1:11434"
+
+# 部署方式：
+#   - "ollama": 使用 Ollama() 部署方式（调用 Ollama 部署的大模型）
+#   - "api": 使用 APIChatClient 调用 API 接口
+deployment_method: "ollama"
+
+# API 调用密钥（也可视情况放在代码中）
+api_key: "aac7e5f2-63f9-410c-98b5-51a60ac1a8c3"
+
+# 小世界网络生成参数（当命令行未指定时，以此为默认值）
+n: 127
+k: 10
+p: 0.1

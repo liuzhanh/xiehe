@@ -1,0 +1,11 @@
+优化后：--- 每种 Agent 类型的态度均值 --- brief 类型 Agent 的态度均值: 0.49 lite 类型 Agent 的态度均值: 0.62 full 类型 Agent 的态度均值: 0.67
+
+优化前：--- 每种 Agent 类型的态度均值 --- brief 类型 Agent 的态度均值: 0.54 lite 类型 Agent 的态度均值: -0.03 full 类型 Agent 的态度均值: 0.60
+
+
+总结：每种 Agent 类型的态度变化比例为：
+
+- brief 类型 Agent：下降约 9.26%
+- lite 类型 Agent：显著上升 0.65（态度发生正面大幅翻转，由于旧值非常接近0，因此比例较大）
+- full 类型 Agent：上升约 11.67%
+

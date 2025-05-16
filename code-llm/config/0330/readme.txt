@@ -1,0 +1,7 @@
+1.py为对转发网络用户的基本信息爬取，用于构建人设，输出文件为1-user_infos.csv。
+	
+2.py为合并user_id_4913201571694562.xlsx 和 user_infos.csv 文件中的用户，以 user_id 中的数据为主，结果保存到2-user_info_with_exist.xlsx。
+	
+4.py读取人设文件3-user_info_with_exist_json.xlsx并将其转换为json文件，输出为Combined_Personas_new.json。
+
+5.py读取Combined_Personas_new.json文件和repo_4913244580089675_network.json（李昊提供的转发网络json文件），找出原始ID中的最大值，创建一个ID映射表，从最大值加1开始，更新Combined_Personas_565.json中的ID，更新repo_4913201571694562_network.json中的ID，更新链接中的ID，收集所有更新后的ID，创建一个新的ID映射表，从0开始，再次更新Combined_Personas_565.json中的ID，再次更新repo_4913201571694562_network.json中的ID，再次更新链接中的ID，保存更新后的文件为Combined_Personas_662_new.json和repo_4913201571694562_network_new.json。

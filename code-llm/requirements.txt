@@ -1,0 +1,13 @@
+networkx
+mesa==2.4.0
+matplotlib
+tqdm
+chromadb
+llama-index
+jinja2
+llama-index-llms-ollama
+llama-index-embeddings-huggingface
+wordcloud
+pyvis
+openpyxl
+vllm

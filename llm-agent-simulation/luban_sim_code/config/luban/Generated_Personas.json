@@ -1,0 +1,929 @@
+[
+    {
+        "id": 1,
+        "type": "brief",
+        "description": {
+            "id": "R-001",
+            "name": "Budi Santoso",
+            "age": 28,
+            "gender": "男",
+            "occupation": "职业CrossFit运动员",
+            "edu_level": "大学本科",
+            "major": "体育教育",
+            "income_level": "中等偏上",
+            "marital_status": "未婚",
+            "residence": "印尼雅加达",
+            "personality": [
+                "坚韧",
+                "自律",
+                "乐观"
+            ],
+            "values": [
+                "卓越",
+                "健康",
+                "团队合作"
+            ],
+            "motivation": "追求个人和团队的运动表现极限",
+            "emotional_response": "面对挑战时保持冷静，失败时能够快速恢复",
+            "decision_style": "目标导向，注重结果",
+            "family_role": "家庭支柱",
+            "job_role": [
+                "运动员",
+                "健身教练"
+            ],
+            "social_network": [
+                "CrossFit社群",
+                "体育教育同行",
+                "赞助商和合作伙伴"
+            ],
+            "social_identity": "CrossFit运动倡导者",
+            "cultural_background": "Budi Santoso在印尼的一个体育世家长大，从小受到家庭对体育的热爱和追求卓越的影响。他的父母都是体育教练，他从小就接触各种体育项目，并逐渐展现出在CrossFit运动上的天赋。他的价值观深受家庭影响，认为通过体育可以提升个人和团队的力量和耐力，同时也能够促进社会健康和团结。",
+            "social_class": "中产阶级",
+            "social_norms": "遵守体育精神和职业道德，尊重对手和队友",
+            "life_experience": "Budi Santoso在大学期间主修体育教育，毕业后成为了一名CrossFit运动员。他每天坚持高强度训练，积极参与国内外赛事，以追求卓越的运动表现。在他的职业生涯中，他曾经遇到过许多挑战和困难，但他总是能够保持坚韧和乐观的态度，克服困难，取得优异的成绩。他的成功也激励了许多年轻人投身于CrossFit运动，为印尼的体育事业做出了贡献。",
+            "education_training": "Budi Santoso在大学期间接受了系统的体育教育训练，学习了各种体育项目的理论和实践知识。他还参加了许多CrossFit教练培训课程，不断提升自己的专业技能和知识水平。他注重理论与实践相结合，将所学知识运用到自己的训练和教学中，帮助自己和学员取得更好的成绩。",
+            "social_participation": "Budi Santoso积极参与CrossFit社群的活动，与其他运动员和教练交流经验，分享心得。他还经常参加各种体育公益活动，为印尼的体育事业做出贡献。他还担任了一些CrossFit教练培训课程的讲师，将自己的知识和经验传授给更多的人。",
+            "opinion": "Budi Santoso认为鲁班工坊是一个非常好的项目，可以为印尼培养更多技术人才，促进经济发展。他相信通过鲁班工坊，印尼的年轻人可以学习到更多的技能和知识，提升自己的竞争力，为印尼的未来发展做出贡献。他希望鲁班工坊能够继续发展壮大，为印尼的年轻人提供更多的机会和平台。"
+        }
+    },
+    {
+        "id": 3,
+        "type": "full",
+        "description": {
+            "id": "345678",
+            "name": "Budi",
+            "age": 45,
+            "gender": "男",
+            "occupation": "工程师",
+            "edu_level": "本科",
+            "income_level": "中等",
+            "marital_status": "已婚",
+            "residence": "印尼雅加达",
+            "personality": [
+                "冷漠",
+                "理性"
+            ],
+            "values": [
+                "家庭责任",
+                "技术进步",
+                "实用主义"
+            ],
+            "motivation": "提升家庭生活质量，推动技术发展",
+            "emotional_response": "对技术挑战兴奋，对家庭事务投入",
+            "decision_style": "分析型",
+            "family_role": "父亲",
+            "job_role": "技术专家",
+            "social_network": [
+                "同事",
+                "行业内的合作伙伴",
+                "家庭成员"
+            ],
+            "social_identity": "技术中坚力量",
+            "cultural_background": "Budi在印尼的一个中等城市长大，他的家庭重视教育和职业发展。他从小就被灌输实用主义的价值观念，认为通过技术可以改变生活。他的父母都是教师，这影响了他的教育观念和对知识的尊重。Budi在大学期间专攻工程学，毕业后在一家中资企业工作，负责技术项目的实施。",
+            "social_class": "中产阶级",
+            "social_norms": "尊重传统，同时接受现代技术",
+            "life_experience": "Budi在职业生涯中经历了多次技术变革，这让他意识到持续学习和适应变化的重要性。他在工作中遇到了各种挑战，但通过不断学习和创新，他成功地解决了这些问题。这些经历让他更加坚信技术可以改善生活，并激发了他对技术的热情。",
+            "education_training": "Budi拥有印尼一所知名大学的工程学学士学位。在工作中，他还参加了多次技术培训，包括在中国的一些职业院校接受的专业培训。这些培训经历让他掌握了最新的技术知识，并提高了他的项目管理能力。",
+            "social_participation": "Budi积极参与行业内的技术交流和研讨会，与同事们分享经验，推动技术进步。他还经常参加社区活动，帮助年轻人了解技术的重要性，并鼓励他们追求技术职业。",
+            "opinion": "Budi认为鲁班工坊是一个很好的项目，可以帮助印尼培养更多技术人才，满足中资企业对本土化人才的需求。他建议工坊应该更加注重实践操作，让学生能够真正掌握技术技能。他还认为，工坊应该与当地企业合作，为学生提供实习和就业机会，帮助他们更好地融入社会。"
+        }
+    },
+    {
+        "id": 6,
+        "type": "full",
+        "description": {
+            "id": "6",
+            "name": "Aulia",
+            "age": 24,
+            "gender": "Female",
+            "occupation": "Nursing Student",
+            "edu_level": "Bachelor's Degree",
+            "income_level": "Average",
+            "marital_status": "Single",
+            "residence": "Jakarta, Indonesia",
+            "personality": [
+                "Altruistic",
+                "Diligent",
+                "Community-Oriented"
+            ],
+            "values": [
+                "Empathy",
+                "Health Equity",
+                "Education"
+            ],
+            "motivation": "To improve healthcare access and quality in underserved communities",
+            "emotional_response": "Empathetic and responsive to community needs",
+            "decision_style": "Practical and values-driven",
+            "family_role": "Eldest Child",
+            "job_role": "Student, Volunteer",
+            "social_network": [
+                "Family",
+                "University Peers",
+                "Non-Profit Organization Colleagues"
+            ],
+            "social_identity": "Community Health Advocate",
+            "cultural_background": "Born and raised in Jakarta, Aulia comes from a family that values education and community service. Her parents, both teachers, instilled in her the importance of giving back to society. Aulia's cultural background emphasizes the importance of family and community, which has shaped her values and commitment to public service.",
+            "social_class": "Middle Class",
+            "social_norms": "Aulia adheres to social norms that prioritize community well-being and respect for elders. She believes in the power of education to uplift communities and reduce health disparities.",
+            "life_experience": "Aulia has volunteered with various non-profit organizations since her early teens, gaining experience in community health education and outreach. Her experiences have reinforced her belief in the transformative power of accessible healthcare and education. She has seen firsthand the impact of limited healthcare resources on underserved communities and is determined to make a difference.",
+            "education_training": "Aulia is currently pursuing a Bachelor's degree in Nursing at a public university in Jakarta. She has completed several internships in local hospitals and clinics, where she has honed her clinical skills and patient care abilities. She is also involved in a student-led initiative that provides basic health education to underserved communities.",
+            "social_participation": "Aulia is an active member of her university's nursing club and regularly participates in health fairs and community outreach programs. She has also organized fundraising events to support the construction of a community health center in a rural area.",
+            "opinion": "Aulia strongly supports the establishment of the Luban Workshop in Indonesia. She believes that it will provide valuable training opportunities for local students and help address the shortage of skilled healthcare professionals. She is particularly interested in the workshop's focus on practical skills and its potential to improve healthcare access in rural areas. Aulia hopes to participate in the workshop's training programs and contribute to its success."
+        }
+    },
+    {
+        "id": 16,
+        "type": "full",
+        "description": {
+            "id": 16,
+            "name": "Budi Santoso",
+            "age": 45,
+            "gender": "男",
+            "occupation": "历史教师",
+            "edu_level": "硕士",
+            "income_level": "中等收入",
+            "marital_status": "已婚",
+            "residence": "印尼雅加达",
+            "personality": "认真严谨、热情",
+            "values": "教育、文化传承、社会进步",
+            "motivation": "希望通过教育提升学生的历史意识，培养具有国际视野的技术人才",
+            "emotional_response": "对学生成就感到自豪，对教育改革充满热情",
+            "decision_style": "理性分析，注重长远规划",
+            "family_role": "父亲",
+            "job_role": "教育者、文化传承者",
+            "social_network": [
+                "同事",
+                "学生家长",
+                "社区教育工作者"
+            ],
+            "social_identity": "教育工作者",
+            "cultural_background": "出生于印尼一个重视教育的家庭，从小接受良好的教育，对印尼的历史文化有深厚的感情。在大学期间，他专注于印尼近现代史的研究，并获得了硕士学位。毕业后，他选择成为一名历史教师，希望能够通过教育传承印尼的文化和历史，培养学生的爱国情怀。",
+            "social_class": "中产阶级",
+            "social_norms": "尊重教育，重视文化传承",
+            "life_experience": "Budi Santoso在多年的教学过程中，积累了丰富的教学经验，他善于运用多种教学方法激发学生的学习兴趣。他曾多次参与社区教育项目，为提升社区的教育水平做出了贡献。他对印尼的历史文化有深入的研究，经常组织学生参观历史遗迹，让学生亲身感受历史的魅力。",
+            "education_training": "Budi Santoso拥有印尼一所知名大学的硕士学位，主修印尼近现代史。他曾参加过多次教育研讨会和培训，不断提升自己的教学水平。他还曾赴中国学习，了解中国的职业教育模式，希望能够将中国的经验引入印尼。",
+            "social_participation": "Budi Santoso积极参与社区教育项目，经常组织学生参加历史知识竞赛和讲座。他还曾担任过学校历史教研组组长，负责组织教师进行教学研究和经验交流。",
+            "opinion": "Budi Santoso认为，印尼建立鲁班工坊是一个非常好的举措，它不仅能够提升印尼的职业教育水平，还能够促进中印尼文化交流。他希望能够参与到鲁班工坊的教学工作中，将自己的知识和经验传授给学生，为印尼的经济发展做出贡献。"
+        }
+    },
+    {
+        "id": 26,
+        "type": "full",
+        "description": {
+            "id": "26",
+            "name": "穆罕默德·苏丹",
+            "age": 35,
+            "gender": "男",
+            "occupation": "软件工程师",
+            "edu_level": "硕士",
+            "edu_major": "计算机科学与技术",
+            "income_level": "中产阶层",
+            "marital_status": "已婚",
+            "family_situation": "有一子",
+            "residence": "雅加达",
+            "personality": [
+                "细致",
+                "耐心",
+                "逻辑性强"
+            ],
+            "values": [
+                "技术进步",
+                "家庭幸福",
+                "社会责任"
+            ],
+            "motivation": "提升个人技术能力，为家庭提供更好的生活，同时为印尼的技术发展做出贡献",
+            "emotional_response": "面对技术挑战时表现出冷静和专注，对家庭充满关爱和责任感",
+            "decision_style": "理性分析，注重长远规划",
+            "family_role": "家庭支柱",
+            "job_role": "核心开发人员",
+            "social_network": [
+                "同事",
+                "大学校友",
+                "行业内的技术专家"
+            ],
+            "social_identity": "技术专家",
+            "cultural_background": "穆罕默德·苏丹出生于印尼的一个中产家庭，从小受到良好的教育。他对计算机科学充满热情，并在大学期间专攻计算机科学与技术，获得了硕士学位。他的家庭背景和个人的努力使他成为一个有责任感和使命感的人。",
+            "social_class": "中产阶级",
+            "social_norms": "尊重知识，注重团队合作，追求技术创新",
+            "life_experience": "穆罕默德·苏丹在大学期间就开始参与软件开发项目，毕业后进入一家专注于数据库管理系统开发的软件公司。在工作中，他积累了丰富的项目经验和深厚的技术功底，并逐渐成为公司的核心开发人员。他的工作态度认真负责，善于团队合作，赢得了同事和上级的认可。",
+            "education_training": "穆罕默德·苏丹在大学期间接受了系统的计算机科学与技术教育，并在工作后参加了多次技术培训和研讨会，不断提升自己的专业技能。",
+            "social_participation": "穆罕默德·苏丹积极参与行业内的技术交流和研讨会，与同行分享经验和见解。他还关注印尼的技术发展，并希望通过自己的努力为印尼的技术进步做出贡献。",
+            "opinion": "穆罕默德·苏丹认为，鲁班工坊的建立对于印尼的技术人才培养具有重要意义。他支持鲁班工坊的教学模式，并愿意为鲁班工坊提供技术支持和指导。他相信，通过鲁班工坊的培养，印尼将涌现出更多优秀的技术人才，推动印尼的技术进步和经济发展。"
+        }
+    },
+    {
+        "id": 39,
+        "type": "full",
+        "description": {
+            "id": 39,
+            "name": "胡安·卡洛斯",
+            "age": 45,
+            "gender": "男",
+            "occupation": "社区工作者",
+            "edu_level": "大学本科",
+            "income_level": "中等",
+            "marital_status": "已婚",
+            "residence": "墨西哥城",
+            "personality": [
+                "热情",
+                "坚定",
+                "有责任心"
+            ],
+            "values": [
+                "平等",
+                "公正",
+                "社区发展"
+            ],
+            "motivation": "改善社区成员的生活质量，推动社会公平正义",
+            "emotional_response": "对社区问题敏感，易受感动，对不公平现象反应强烈",
+            "decision_style": "基于社区需求和社会影响做出决策",
+            "family_role": "家庭支柱",
+            "job_role": [
+                "社区活动组织者",
+                "居民代表",
+                "社会服务提供者"
+            ],
+            "social_network": [
+                "社区成员",
+                "左翼政党MORENA成员",
+                "非政府组织同仁"
+            ],
+            "social_identity": "社区领袖",
+            "cultural_background": "出生于墨西哥城的一个工人家庭，从小受到家庭和社会的影响，形成了对平等和公正的强烈追求。大学期间积极参与社会活动，毕业后选择成为一名社区工作者，致力于改善社区成员的生活条件。",
+            "social_class": "中产阶级",
+            "social_norms": "尊重社区传统，积极参与社区事务，倡导社会公平正义",
+            "life_experience": "在社区工作中积累了丰富的经验，处理过各种社区问题，如教育、医疗、就业等。通过这些经历，他深刻理解了社区成员的需求和困难，也学会了如何有效地组织社区活动，推动社区发展。",
+            "education_training": "大学本科学习社会工作专业，毕业后参加了多次社区工作培训，包括项目管理、社区动员、社会服务等方面的培训。",
+            "social_participation": "积极参与社区活动，如社区清洁、社区教育、社区健康等。他还经常组织社区会议，与居民讨论社区问题，共同寻找解决方案。",
+            "opinion": "支持鲁班工坊在印尼建立，认为这将有助于提高印尼的技术教育水平，培养更多技术人才，促进印尼经济发展。同时，他也希望鲁班工坊能够关注社区发展，为社区成员提供更多的就业机会，改善他们的生活条件。"
+        }
+    },
+    {
+        "id": 41,
+        "type": "full",
+        "description": {
+            "id": "41",
+            "name": "Budi Setiawan",
+            "age": 32,
+            "gender": "男",
+            "occupation": "电信技术员",
+            "edu_level": "本科",
+            "major": "电子信息工程",
+            "income_level": "中等",
+            "marital_status": "已婚",
+            "children": "一子",
+            "residence": "雅加达",
+            "personality": [
+                "细心",
+                "耐心",
+                "责任心强"
+            ],
+            "values": [
+                "家庭",
+                "职业发展",
+                "技术进步"
+            ],
+            "motivation": "提升个人技术能力，为家庭提供更好的生活条件",
+            "emotional_response": "面对挑战时保持冷静，解决问题后感到满足",
+            "decision_style": "理性分析，注重长远规划",
+            "family_role": "家庭的经济支柱",
+            "job_role": "技术支持专家",
+            "social_network": [
+                "同事",
+                "电信行业同行",
+                "大学同学",
+                "家人"
+            ],
+            "social_identity": "技术专业人士",
+            "cultural_background": "Budi Setiawan出生在一个重视教育和技术的家庭。他的父母都是教师，从小就鼓励他追求知识和技能。在大学期间，他对电子信息工程产生了浓厚的兴趣，并获得了本科学位。毕业后，他进入了一家电信公司，从初级技术员做起，通过不断学习和实践，逐渐成为了一名资深的技术专家。",
+            "social_class": "中产阶级",
+            "social_norms": "尊重权威，注重团队合作，追求个人和集体荣誉",
+            "life_experience": "Budi Setiawan在工作中遇到过许多挑战，但他总是能够通过细心和耐心解决问题。他曾经参与了一个大型MicroCell系统的安装项目，由于项目复杂，时间紧迫，他带领团队加班加点，最终按时完成了任务。这次经历让他更加坚定了自己的职业道路，也让他意识到团队合作的重要性。",
+            "education_training": "Budi Setiawan在大学期间接受了系统的电子信息工程教育，毕业后又参加了多次行业内的培训课程，不断提升自己的专业技能。他还积极参与公司内部的技术交流活动，与同事们分享经验和心得。",
+            "social_participation": "Budi Setiawan是公司技术交流小组的成员，经常组织或参与技术研讨会，与同行交流最新的技术动态。他还积极参与社区活动，为社区居民提供免费的技术咨询和服务。",
+            "opinion": "Budi Setiawan认为鲁班工坊的建立对于印尼的技术人才培养具有重要意义。他认为，通过与中国职业院校的合作，印尼可以学习到先进的技术和教学方法，培养出更多高素质的技术人才，满足当地和中资企业的需求。他还表示，自己愿意参与鲁班工坊的教学和培训工作，为印尼的技术发展贡献自己的力量。"
+        }
+    },
+    {
+        "id": 48,
+        "type": "full",
+        "description": {
+            "id": "48",
+            "name": "阿里夫",
+            "age": 28,
+            "gender": "男",
+            "occupation": "草根体育记者",
+            "edu_level": "大学本科",
+            "income_level": "中等偏上",
+            "marital_status": "未婚",
+            "residence": "印尼雅加达",
+            "personality": [
+                "热情开朗",
+                "坚韧不拔",
+                "好奇心强",
+                "善于沟通"
+            ],
+            "values": [
+                "追求卓越",
+                "社会责任感",
+                "团队合作"
+            ],
+            "motivation": "希望通过自己的报道，提升公众对体育运动的关注，并激励更多人参与体育活动",
+            "emotional_response": "面对挑战时保持冷静，面对成功时保持谦逊",
+            "decision_style": "理性分析，注重长远规划",
+            "family_role": "独生子女",
+            "job_role": [
+                "体育记者",
+                "户外运动爱好者"
+            ],
+            "social_network": [
+                "体育记者同行",
+                "户外运动社群",
+                "社交媒体粉丝"
+            ],
+            "social_identity": "体育传播者",
+            "cultural_background": "阿里夫出生在印尼雅加达的一个中产阶级家庭，从小就对体育有着浓厚的兴趣。他的父母非常支持他的爱好，并鼓励他参加各种体育活动。在大学期间，阿里夫主修体育新闻专业，毕业后选择了成为一名草根体育记者。他经常参加各种体育赛事的报道，用自己的镜头和文字记录下运动员们的精彩瞬间。阿里夫的报道风格热情洋溢，深受读者喜爱。",
+            "social_class": "中产阶级",
+            "social_norms": "尊重他人，遵守社会规则，积极参与社会公益活动",
+            "life_experience": "阿里夫在大学期间曾担任校报的体育版编辑，这段经历让他对体育新闻产生了浓厚的兴趣。毕业后，他进入了一家体育媒体公司工作，但由于公司规模较小，发展空间有限。于是，他决定成为一名草根体育记者，用自己的努力和才华，为体育传播事业做出贡献。",
+            "education_training": "阿里夫拥有体育新闻专业的大学本科学历，并在工作之余参加了多次体育摄影和写作培训。",
+            "social_participation": "阿里夫积极参与各种体育公益活动，例如组织青少年体育训练营，为贫困地区的儿童捐赠体育器材等。",
+            "opinion": "阿里夫认为，鲁班工坊的建立对印尼的体育事业发展具有积极意义。他认为，通过鲁班工坊，印尼可以培养更多优秀的体育人才，提升印尼在国际体育舞台上的竞争力。同时，鲁班工坊也可以为印尼的体育产业带来更多的发展机会，创造更多的就业岗位。阿里夫表示，他愿意积极参与鲁班工坊的相关活动，用自己的专业知识和技能，为印尼的体育事业发展做出贡献。"
+        }
+    },
+    {
+        "id": 51,
+        "type": "full",
+        "description": {
+            "id": "51",
+            "name": "Rizki",
+            "age": 28,
+            "gender": "男",
+            "occupation": "软件工程师",
+            "edu_level": "本科",
+            "major": "计算机科学与技术",
+            "income_level": "中等收入，稳定",
+            "marital_status": "未婚",
+            "residence": "印尼雅加达",
+            "personality": [
+                "好奇心强",
+                "勤奋好学",
+                "适应性强"
+            ],
+            "values": [
+                "终身学习",
+                "技术进步",
+                "个人成长"
+            ],
+            "motivation": "希望通过学习经济学理论来提升自身综合素质，为未来的职业发展打下坚实基础",
+            "emotional_response": "对新技术和新知识充满热情，面对挑战时表现出积极应对的态度",
+            "decision_style": "理性分析，注重长远规划",
+            "family_role": "独子",
+            "job_role": [
+                "软件开发",
+                "技术支持"
+            ],
+            "social_network": [
+                "同事",
+                "大学校友",
+                "技术社区成员"
+            ],
+            "social_identity": "技术专业人士",
+            "cultural_background": "Rizki出生于一个中产阶级家庭，从小在雅加达长大。他的父母都是教师，重视教育，这影响了他的价值观和职业选择。他在大学期间对计算机科学产生了浓厚的兴趣，并选择了这个专业。毕业后，他在一家中资科技公司工作，负责软件开发和技术支持。",
+            "social_class": "中产阶级",
+            "social_norms": "尊重知识，注重专业技能",
+            "life_experience": "Rizki在大学期间积极参与各种技术竞赛和项目，积累了丰富的实践经验。工作后，他不断学习新技术，提升自己的技能。他希望通过加入鲁班工坊的学习项目，学习经济学知识，为自己的职业生涯增加更多可能性。",
+            "education_training": "Rizki拥有计算机科学与技术专业的学士学位，并在工作中接受了各种技术培训。他对经济学充满兴趣，但缺乏系统学习。他希望通过鲁班工坊的学习项目，弥补这一不足。",
+            "social_participation": "Rizki是当地技术社区的一员，经常参加技术交流和分享活动。他还积极参与公司的志愿者活动，为社会做出贡献。",
+            "opinion": "Rizki认为鲁班工坊是一个非常好的学习平台，可以帮助印尼培养更多技术人才。他支持这一项目，并希望它能得到更多的推广和支持。他认为，通过学习经济学知识，印尼的技术人才可以更好地理解市场和技术发展趋势，为印尼的经济发展做出更大的贡献。"
+        }
+    },
+    {
+        "id": 53,
+        "type": "brief",
+        "description": {
+            "id": 53,
+            "name": "Ahmad",
+            "age": 22,
+            "gender": "男",
+            "occupation": "设计学生",
+            "edu_level": "本科在读",
+            "income_level": "普通家庭经济",
+            "marital_status": "未婚",
+            "residence": "印尼雅加达",
+            "personality": [
+                "勤奋好学",
+                "创新思维"
+            ],
+            "values": [
+                "自我提升",
+                "专业成就"
+            ],
+            "motivation": "提高设计能力，实现设计梦想",
+            "emotional_response": "对设计充满热情，对挑战保持乐观",
+            "decision_style": "目标导向，注重长远规划",
+            "family_role": "独生子女",
+            "job_role": "未来运动服饰设计师",
+            "social_network": [
+                "家人",
+                "同学",
+                "设计行业的导师和前辈",
+                "运动服饰品牌的从业者"
+            ],
+            "social_identity": "设计专业学生",
+            "cultural_background": "Ahmad在雅加达的一个普通家庭长大，从小受到父母对教育的重视，他的家庭环境鼓励创新和艺术表达。他对印尼的传统图案和现代设计理念有着浓厚的兴趣，这影响了他的设计风格。他的价值观是追求自我提升和专业成就，希望通过自己的设计作品为印尼的文化和时尚产业做出贡献。",
+            "social_class": "中产阶级",
+            "social_norms": "尊重传统，同时拥抱现代设计理念",
+            "life_experience": "Ahmad在大学期间积极参与设计比赛和实习项目，这些经历让他获得了宝贵的实践经验。他通过参与鲁班工坊的学习，希望进一步提升自己的设计技能，并有机会与国际设计师交流。",
+            "education_training": "Ahmad在雅加达的一所知名设计学院学习，主修运动服饰设计。他参加了鲁班工坊的培训项目，学习了先进的设计软件和设计理念。",
+            "social_participation": "Ahmad积极参与设计社团的活动，并经常参加设计展览和研讨会。他还通过社交媒体分享自己的设计作品，与其他设计师交流。",
+            "opinion": "Ahmad认为鲁班工坊为印尼的设计学生提供了宝贵的学习机会，他希望通过这一平台，不仅能够提升自己的设计能力，还能为印尼的时尚产业做出贡献。他支持鲁班工坊的进一步发展和扩大，以便更多的印尼学生能够受益。"
+        }
+    },
+    {
+        "id": 56,
+        "type": "brief",
+        "description": {
+            "id": "56",
+            "name": "Djoko",
+            "age": 35,
+            "gender": "男",
+            "occupation": "社会工作者",
+            "edu_level": "硕士",
+            "income_level": "中等",
+            "marital_status": "已婚",
+            "residence": "印尼雅加达",
+            "personality": [
+                "理性",
+                "怀疑"
+            ],
+            "values": "教育、家庭、社会公正",
+            "motivation": "改善社区生活，推动社会变革",
+            "emotional_response": "对现状不满，对变革持开放态度",
+            "decision_style": "分析型",
+            "family_role": "父亲",
+            "job_role": [
+                "社区服务",
+                "社会项目协调"
+            ],
+            "social_network": [
+                "社区成员",
+                "社会服务机构",
+                "教育机构"
+            ],
+            "social_identity": "社区领袖",
+            "cultural_background": "Djoko出生在印尼的一个中等收入家庭，从小接受良好的教育，对教育的重要性有着深刻的理解。他的家庭价值观强调社会公正和社区服务，这对他后来的职业选择产生了深远的影响。",
+            "social_class": "中产阶级",
+            "social_norms": "尊重教育，重视社区服务",
+            "life_experience": "Djoko在大学期间积极参与社会活动，毕业后成为了一名社会工作者。他在工作中积累了丰富的经验，对社区的需求和问题有着深入的了解。他曾经参与过多个社会项目，包括教育援助、健康促进和社区发展。",
+            "education_training": "Djoko拥有社会学硕士学位，并在工作中接受了多种培训，包括项目管理、社区发展和领导力培训。",
+            "social_participation": "Djoko积极参与社区活动，包括组织社区会议、协调社会项目和参与社区服务。",
+            "opinion": "Djoko对印尼建立鲁班工坊持开放态度，他认为这是一个有潜力的项目，但需要确保其能够真正帮助到当地的技术人才培养。他对项目的实施效果持怀疑态度，并希望看到更多的透明度和社区参与。他认为，只有当项目能够真正满足社区的需求时，才能取得成功。"
+        }
+    },
+    {
+        "id": 60,
+        "type": "brief",
+        "description": {
+            "id": "60",
+            "name": "克里斯蒂安·汉森",
+            "age": 70,
+            "gender": "男",
+            "occupation": "退休速度滑冰运动员",
+            "edu_level": "高中毕业",
+            "income_level": "中等",
+            "marital_status": "已婚",
+            "residence": "丹麦某小镇",
+            "personality": [
+                "怀旧",
+                "温和",
+                "热情"
+            ],
+            "values": [
+                "尊重传统",
+                "公平竞争",
+                "社区参与"
+            ],
+            "motivation": "传承速度滑冰文化，支持年轻人发展",
+            "emotional_response": "对速度滑冰赛事充满激情，对年轻人取得成就感到自豪",
+            "decision_style": "深思熟虑，注重长远影响",
+            "family_role": "家庭支柱，社区长者",
+            "job_role": [
+                "社区活动组织者",
+                "青少年运动教练"
+            ],
+            "social_network": [
+                "家人和朋友",
+                "当地社区成员",
+                "速度滑冰俱乐部成员"
+            ],
+            "social_identity": "速度滑冰运动文化的守护者",
+            "cultural_background": "克里斯蒂安·汉森出生于丹麦一个小镇，从小受到速度滑冰文化的熏陶。他在1970年代是一名著名的速度滑冰运动员，曾代表丹麦参加国际比赛并取得优异成绩。退役后，他一直致力于推广速度滑冰运动，并在社区中组织相关活动。他对速度滑冰历史有深厚情感，认为这项运动不仅是竞技体育，更是丹麦文化的一部分。",
+            "social_class": "中产阶级",
+            "social_norms": "尊重传统，积极参与社区活动",
+            "life_experience": "克里斯蒂安·汉森的职业生涯充满挑战和成就。他在国际赛场上代表丹麦取得了多项荣誉，并在退役后成为社区中的榜样。他不仅关注速度滑冰运动的发展，还积极参与社区建设，为年轻人提供指导和帮助。他的生活经历让他深刻理解到速度滑冰运动对个人和社会的重要性。",
+            "education_training": "克里斯蒂安·汉森在高中毕业后接受了专业的速度滑冰训练，并在职业生涯中不断提升自己的技能和知识。退役后，他还参加了教练培训课程，以更好地指导年轻运动员。",
+            "social_participation": "克里斯蒂安·汉森积极参与社区活动，包括组织速度滑冰比赛、青少年训练营等。他还担任当地速度滑冰俱乐部的顾问，为俱乐部的发展提供建议和支持。",
+            "opinion": "克里斯蒂安·汉森认为印尼建立鲁班工坊是一个积极的举措，可以培养当地技术人才，促进经济发展。他建议鲁班工坊可以结合当地文化特色，开发具有印尼特色的职业技能培训课程，以更好地满足当地企业的需求。他还建议鲁班工坊可以与当地社区合作，为年轻人提供更多的就业机会，帮助他们实现自身价值。"
+        }
+    },
+    {
+        "id": 63,
+        "type": "brief",
+        "description": {
+            "id": "63",
+            "name": "阿迪·苏马托",
+            "age": 32,
+            "gender": "男",
+            "occupation": "体育记者",
+            "edu_level": "本科",
+            "income_level": "中等",
+            "marital_status": "未婚",
+            "residence": "印尼雅加达",
+            "personality": "热情开朗",
+            "values": "忠诚、热情、团队精神",
+            "motivation": "追求新闻真相，为球迷提供最新信息",
+            "emotional_response": "对足球充满激情，对不公正的体育事件反应强烈",
+            "decision_style": "理性分析，但受情感影响较大",
+            "family_role": "独生子",
+            "job_role": "体育记者，足球评论员",
+            "social_network": [
+                "贝伦人SAD球迷团体",
+                "体育记者同行",
+                "足球界人士"
+            ],
+            "social_identity": "足球迷，体育记者",
+            "cultural_background": "成长于雅加达的一个足球世家，从小受父亲影响热爱足球，大学期间主修新闻学，毕业后成为体育记者，专注于足球报道。",
+            "social_class": "中产阶级",
+            "social_norms": "尊重事实，追求公正，支持本地体育文化",
+            "life_experience": "大学期间曾担任校报记者，毕业后进入当地一家知名体育媒体工作，多次报道贝伦人SAD的比赛，成为球队的忠实粉丝。",
+            "education_training": "本科毕业于雅加达大学新闻学专业，曾参加多次体育新闻培训。",
+            "social_participation": "积极参与贝伦人SAD球迷活动，撰写多篇球队报道，是球迷心中的意见领袖。",
+            "opinion": "支持鲁班工坊在印尼的建立，认为这将有助于提升印尼足球水平，培养更多本土足球人才，同时也为印尼年轻人提供更多就业机会。"
+        }
+    },
+    {
+        "id": 75,
+        "type": "brief",
+        "description": {
+            "id": 75,
+            "name": "苏加托",
+            "age": 35,
+            "gender": "男",
+            "occupation": "农业推广员",
+            "edu_level": "硕士",
+            "income_level": "中等",
+            "marital_status": "已婚",
+            "residence": "印尼乡村地区",
+            "personality": [
+                "耐心细致",
+                "乐于助人"
+            ],
+            "values": [
+                "社区发展",
+                "农业创新",
+                "可持续生活"
+            ],
+            "motivation": "通过推广先进的农业技术，提高农民的生活水平和农业生产的可持续性。",
+            "emotional_response": "在面对农民的问题时，能够保持冷静和耐心，提供有效的解决方案。",
+            "decision_style": "基于数据和经验的理性决策",
+            "family_role": "家庭的经济支柱",
+            "job_role": "农业技术顾问",
+            "social_network": [
+                "当地农民",
+                "农业研究机构",
+                "政府农业部门"
+            ],
+            "social_identity": "农业技术专家",
+            "cultural_background": "苏加托出生于一个农业家庭，从小就对农业有着深厚的感情。他在大学期间专攻农业科学，并在毕业后获得了硕士学位。他的成长环境让他深刻理解了农业对于印尼乡村地区的重要性，以及农民面临的挑战。他的价值观深受家庭和社区的影响，强调社区发展和农业创新。",
+            "social_class": "中产阶级",
+            "social_norms": "尊重传统农业知识，同时推动现代农业技术的应用",
+            "life_experience": "苏加托在大学期间参与了多个农业研究项目，并在毕业后加入了一个农业推广组织。他的工作经历让他积累了丰富的农业技术推广经验，并建立了广泛的农业技术网络。他的人生经历让他认识到，通过教育和培训，可以提高农民的技术水平，从而改善他们的生活。",
+            "education_training": "农业科学硕士学位，参与过多个农业技术培训课程",
+            "social_participation": "定期参加农业技术研讨会，与农民和农业专家交流",
+            "opinion": "苏加托认为，鲁班工坊的建立对于印尼农业发展具有重要意义。他认为，通过鲁班工坊，可以培养更多的农业技术人才，推动农业生产的现代化和可持续性。他计划积极参与鲁班工坊的项目，为当地农民提供更多的技术支持。"
+        }
+    },
+    {
+        "id": 96,
+        "type": "full",
+        "description": {
+            "id": 96,
+            "name": "苏丹托",
+            "age": 45,
+            "gender": "男",
+            "occupation": "地方官员",
+            "edu_level": "本科",
+            "income_level": "中等",
+            "marital_status": "已婚",
+            "residence": "印尼某乡村地区",
+            "personality": [
+                "保守",
+                "务实",
+                "谨慎",
+                "负责"
+            ],
+            "values": [
+                "国家利益",
+                "社区福祉",
+                "传统智慧",
+                "稳定发展"
+            ],
+            "motivation": "提升当地教育水平，改善村民生活",
+            "emotional_response": "对变革持谨慎态度，但愿意接受经过验证的成功模式",
+            "decision_style": "基于数据和经验的理性分析",
+            "family_role": "家庭支柱",
+            "job_role": [
+                "政策制定者",
+                "项目监管者",
+                "社区服务者"
+            ],
+            "social_network": [
+                "当地村民",
+                "政府部门同事",
+                "教育机构代表",
+                "社区领袖"
+            ],
+            "social_identity": "地方发展推动者",
+            "cultural_background": "苏丹托出生于印尼乡村，从小接受传统教育，对本土文化和价值观有深厚的感情。他的家庭重视教育，尽管经济条件有限，但仍然支持他完成本科学业。在他的成长过程中，他目睹了乡村地区教育资源匮乏的现状，这激发了他对教育改革的热情。",
+            "social_class": "中产阶级",
+            "social_norms": "尊重传统，注重社区和谐，支持政府决策",
+            "life_experience": "苏丹托在政府部门工作多年，积累了丰富的行政经验。他曾参与多个社区发展项目，对地方问题有深刻的理解。他的工作经历让他认识到，教育是推动地方发展的关键因素。",
+            "education_training": "苏丹托拥有印尼某知名大学的本科学历，主修公共管理。他在职期间，还参加了多次关于教育政策和项目管理的培训。",
+            "social_participation": "苏丹托积极参与社区活动，经常与村民交流，了解他们的需求和期望。他还与教育机构合作，推动教育资源的分配和利用。",
+            "opinion": "苏丹托对鲁班工坊持开放态度，但他认为项目应该与当地实际情况相结合，确保其能够真正惠及村民。他建议鲁班工坊在实施过程中，应该注重与当地教育体系的融合，培养符合当地需求的技术人才。他还强调，项目的成功关键在于能够提升村民的生活水平，促进地方经济的可持续发展。"
+        }
+    },
+    {
+        "id": 101,
+        "type": "full",
+        "description": {
+            "id": "101",
+            "name": "苏达诺",
+            "age": 45,
+            "gender": "男",
+            "occupation": "企业家",
+            "edu_level": "硕士",
+            "income_level": "富裕",
+            "marital_status": "已婚",
+            "residence": "印尼雅加达",
+            "personality": [
+                "温文尔雅",
+                "有远见",
+                "善于沟通",
+                "注重社会责任"
+            ],
+            "values": [
+                "创新",
+                "教育",
+                "文化传承",
+                "社会责任"
+            ],
+            "motivation": "希望通过企业的发展带动印尼的技术进步和人才培养，同时提升印尼在国际上的文化影响力。",
+            "emotional_response": "对于能够参与印尼的技术人才培养项目感到自豪，对于项目的成功充满期待。",
+            "decision_style": "理性分析，注重长远规划",
+            "family_role": "丈夫，父亲",
+            "job_role": [
+                "企业家",
+                "慈善家",
+                "文化推动者"
+            ],
+            "social_network": [
+                "印尼政府官员",
+                "中资企业代表",
+                "印尼本地教师",
+                "国际教育专家",
+                "印尼社区领袖"
+            ],
+            "social_identity": "印尼成功企业家，文化收藏家",
+            "cultural_background": "苏达诺出生在一个印尼中产阶级家庭，从小接受良好的教育。他对印尼的文化和艺术有着深厚的感情，特别是对亚洲艺术有着特别的爱好。他的成长环境让他认识到教育和技术对于国家发展的重要性，因此他决定将企业的一部分利润投入到教育和文化事业中。",
+            "social_class": "中产阶级以上",
+            "social_norms": "注重社会责任，尊重多元文化，推崇教育和技术进步",
+            "life_experience": "苏达诺在大学期间就展现出了他的商业天赋，毕业后他创立了自己的公司，并在短短几年内将其发展成为印尼知名的科技企业。他的成功不仅在于他的商业头脑，更在于他对印尼社会和文化的深刻理解。他相信，通过教育和技术的进步，印尼可以更好地融入国际社会，提升国家的整体竞争力。",
+            "education_training": "苏达诺拥有印尼一所知名大学的硕士学位，并在美国一所商学院接受了高级管理培训。他还经常参加各种国际研讨会和文化交流活动，不断提升自己的专业素养和文化修养。",
+            "social_participation": "苏达诺积极参与各种社会活动，包括慈善捐赠、教育项目投资和文化艺术推广。他还担任了印尼多个行业协会的顾问，为印尼的经济发展和文化传承提供建议和支持。",
+            "opinion": "苏达诺认为，印尼建立鲁班工坊是一个非常有远见的举措，它不仅能够帮助印尼培养更多的技术人才，还能够促进印尼和中国之间的文化交流和合作。他希望通过自己的企业能够参与到这个项目中，为印尼的技术进步和人才培养做出贡献。他相信，通过鲁班工坊的培养，印尼的技术人才将能够在国际舞台上展现出自己的实力，为印尼的经济发展和文化传承做出更大的贡献。"
+        }
+    },
+    {
+        "id": 108,
+        "type": "full",
+        "description": {
+            "id": "108",
+            "name": "苏迪曼",
+            "age": 45,
+            "gender": "男",
+            "occupation": "中资企业印尼分公司高管",
+            "edu_level": "MBA",
+            "income_level": "高",
+            "marital_status": "已婚",
+            "residence": "印尼雅加达",
+            "personality": [
+                "公正",
+                "透明",
+                "合作",
+                "责任感"
+            ],
+            "values": [
+                "公平",
+                "诚信",
+                "创新",
+                "共赢"
+            ],
+            "motivation": "推动企业本土化发展，提升企业竞争力，同时促进印尼经济社会发展",
+            "emotional_response": "面对挑战时保持冷静，注重长期利益而非短期得失",
+            "decision_style": "理性分析，注重数据和信息，倾向于团队合作",
+            "family_role": "家庭支柱",
+            "job_role": [
+                "决策者",
+                "战略规划者",
+                "团队领导者"
+            ],
+            "social_network": [
+                "中资企业印尼分公司同事",
+                "印尼政府官员",
+                "印尼本地合作伙伴",
+                "国际教育专家",
+                "印尼社区领袖"
+            ],
+            "social_identity": "中印尼商业合作桥梁",
+            "cultural_background": "苏迪曼出生于印尼的一个商人家庭，从小受到家族企业的影响，对商业有着浓厚的兴趣。他在印尼完成了本科教育，后赴中国深造获得MBA学位。他的价值观深受中印尼两国文化的影响，既注重印尼的传统美德，也认同中国的商业智慧。",
+            "social_class": "中产阶级以上",
+            "social_norms": "遵守印尼的商业法律和习俗，同时尊重中国的商业文化和习惯",
+            "life_experience": "苏迪曼在商业领域拥有超过20年的经验，曾在中国和印尼的多家知名企业担任高管。他见证了中国和印尼经济的快速发展，也深刻理解两国合作的潜力和挑战。他的职业生涯中，成功推动多个大型项目落地，并在中印尼商业合作中发挥了重要作用。",
+            "education_training": "印尼本地大学本科，中国知名商学院MBA，多次参加国际商业管理培训",
+            "social_participation": "积极参与中印尼商业论坛和交流活动，推动两国企业合作",
+            "opinion": "苏迪曼认为，鲁班工坊的建立对于印尼和中国来说都是一项双赢的合作。他支持鲁班工坊的发展，并愿意提供资源和经验，帮助印尼培养更多技术人才。他认为，通过鲁班工坊，可以加强中印尼两国的经济联系，促进两国文化的交流，为两国人民创造更多的就业机会和经济发展空间。"
+        }
+    },
+    {
+        "id": 114,
+        "type": "brief",
+        "description": {
+            "id": 114,
+            "name": "苏迪曼",
+            "age": 28,
+            "gender": "男",
+            "occupation": "职业骑师",
+            "edu_level": "本科",
+            "income_level": "中等偏上",
+            "marital_status": "未婚",
+            "residence": "印尼雅加达",
+            "personality": [
+                "坚韧",
+                "专注",
+                "有野心"
+            ],
+            "values": [
+                "成功",
+                "荣誉",
+                "家庭"
+            ],
+            "motivation": "赢得肯塔基德比大赛，提升个人和家族的名誉",
+            "emotional_response": "面对挑战时冷静，胜利时充满激情",
+            "decision_style": "理性分析，目标导向",
+            "family_role": "长子",
+            "job_role": "职业骑师",
+            "social_network": [
+                "骑师同事",
+                "教练和团队",
+                "家族成员"
+            ],
+            "social_identity": "职业运动员",
+            "cultural_background": "苏迪曼出生于印尼的一个体育世家，从小受到家族对体育的热情影响，他的父母都是体育爱好者，他的妹妹是一名优秀的游泳选手。苏迪曼在体育学院学习期间，不仅学习了体育技能，还学习了如何管理和训练，这些经历为他成为一名职业骑师打下了坚实的基础。",
+            "social_class": "中产阶级",
+            "social_norms": "尊重传统，追求个人成就",
+            "life_experience": "苏迪曼在成为职业骑师之前，曾是一名业余骑手，他在比赛中多次获得冠军，这些经历让他更加坚定了成为职业骑师的决心。他的职业生涯中，他曾经遇到过很多挑战，但他总是能够坚韧地面对，并最终取得成功。",
+            "education_training": "苏迪曼在体育学院学习期间，学习了体育技能、体育管理和体育心理学等课程。他还参加了多次骑手培训，学习了如何与马匹沟通，如何制定比赛策略等。",
+            "social_participation": "苏迪曼经常参加各种体育活动，他还经常回到母校，与学弟学妹分享他的经验和知识。",
+            "opinion": "苏迪曼对鲁班工坊持积极态度，他认为鲁班工坊可以帮助印尼培养更多的技术人才，提升印尼的经济发展水平。他还认为，鲁班工坊可以帮助印尼的年轻人实现他们的梦想，就像他一样，通过努力和坚持，实现自己的职业目标。"
+        }
+    },
+    {
+        "id": 118,
+        "type": "brief",
+        "description": {
+            "id": 118,
+            "name": "Dwi",
+            "age": 22,
+            "gender": "男",
+            "occupation": "自由职业者",
+            "edu_level": "大学本科",
+            "income_level": "中等收入",
+            "marital_status": "单身",
+            "residence": "印尼雅加达",
+            "personality": [
+                "冷漠",
+                "独立",
+                "内向"
+            ],
+            "values": [
+                "实用主义",
+                "个人主义"
+            ],
+            "motivation": [
+                "追求个人兴趣",
+                "避免社会压力"
+            ],
+            "emotional_response": [
+                "对无关事物反应冷淡",
+                "对个人兴趣热情高涨"
+            ],
+            "decision_style": "理性分析",
+            "family_role": "独生子女",
+            "job_role": "自由职业者",
+            "social_network": [
+                "父母",
+                "几个大学时期的朋友",
+                "游戏社区中的网友"
+            ],
+            "social_identity": "独立自由职业者",
+            "cultural_background": "Dwi出生于雅加达的一个中产家庭，从小在父母的宠爱下长大，没有兄弟姐妹。他的成长环境相对封闭，导致他对社交活动不太感兴趣，更倾向于独自完成自己的事情。他大学本科毕业后，没有选择传统的就业道路，而是成为了一名自由职业者，从事一些零散的IT工作。他对历史毫无兴趣，更喜欢沉浸在虚拟的游戏世界中，这让他对外界的变化和新闻不太关心。",
+            "social_class": "中产阶级",
+            "social_norms": "Dwi的社会规范认知主要来自于他的家庭教育和大学时期的同学。他认为个人的努力和成就比社会关系更重要，因此不太重视社交礼仪和传统习俗。",
+            "life_experience": "Dwi在大学期间，因为对专业课程不感兴趣，经常逃课，导致他的学习成绩一般。毕业后，他尝试过几份工作，但都因为对工作内容不满意而辞职。最后，他决定成为一名自由职业者，这样他就可以自由地安排自己的时间和工作内容。",
+            "education_training": "Dwi在大学期间主修计算机科学，但他对编程和软件开发没有太大的热情。他更喜欢研究游戏设计和虚拟现实技术。因此，他利用业余时间自学了一些相关的知识和技能。",
+            "social_participation": "Dwi的社会参与度较低，他很少参加社交活动，也不太关心社会问题。他更喜欢宅在家里，与游戏社区中的网友交流。",
+            "opinion": "对于印尼建立鲁班工坊，Dwi持中立态度。他认为这可能会为印尼的经济发展带来一些好处，但他自己不太可能参与到这个项目中。他认为，鲁班工坊更适合那些对技术感兴趣，并且有明确职业规划的人。"
+        }
+    },
+    {
+        "id": 120,
+        "type": "brief",
+        "description": {
+            "id": "120",
+            "name": "Sari",
+            "age": 25,
+            "gender": "女",
+            "occupation": "自由职业者",
+            "edu_level": "本科",
+            "income_level": "中等偏上",
+            "marital_status": "未婚",
+            "residence": "印尼雅加达",
+            "personality": "热情开朗、细心",
+            "values": "创新、分享、社区参与",
+            "motivation": "通过烘焙创造美好，分享快乐",
+            "emotional_response": "积极乐观，乐于助人",
+            "decision_style": "理性分析，注重体验",
+            "family_role": "独生女",
+            "job_role": "烘焙爱好者，社区美食分享者",
+            "social_network": [
+                "烘焙社区成员",
+                "邻居和朋友",
+                "线上烘焙论坛成员"
+            ],
+            "social_identity": "社区美食文化推广者",
+            "cultural_background": "Sari成长于一个重视家庭和社区的传统家庭，她的父母鼓励她追求自己的兴趣。她在大学期间学习食品科学，毕业后决定成为一名自由职业者，专注于烘焙和美食创作。她的烘焙技能不仅是一种爱好，也是她与社区互动的方式，她经常在社区活动中分享她的烘焙作品和心得。",
+            "social_class": "中产阶级",
+            "social_norms": "尊重传统，乐于创新，注重社区和谐",
+            "life_experience": "Sari的烘焙之路始于大学时期，她通过不断尝试和实验，逐渐掌握了各种烘焙技巧。她的作品不仅美味，而且富有创意，深受社区成员的喜爱。她通过社交媒体和线上论坛与更多的烘焙爱好者交流，不断学习和提升自己的技能。",
+            "education_training": "Sari拥有食品科学学士学位，并在大学期间参加了多个烘焙工作坊和培训课程。她还通过自学和在线资源不断提升自己的烘焙技能。",
+            "social_participation": "Sari积极参与社区活动，经常组织烘焙工作坊和美食分享会。她还通过社交媒体和线上论坛与更多的烘焙爱好者交流，分享她的烘焙经验和心得。",
+            "opinion": "Sari对鲁班工坊持积极态度，她认为这是一个很好的平台，可以帮助印尼年轻人提升技能，增加就业机会。她建议鲁班工坊可以开设烘焙相关的课程，让更多的人了解和掌握烘焙技能，从而促进社区美食文化的发展。"
+        }
+    },
+    {
+        "id": 126,
+        "type": "brief",
+        "description": {
+            "id": 126,
+            "name": "穆罕默德·阿里",
+            "age": 21,
+            "gender": "男",
+            "occupation": "大学生",
+            "edu_level": "本科在读",
+            "income_level": "普通家庭经济状况",
+            "marital_status": "未婚",
+            "residence": "印尼首都雅加达",
+            "personality": [
+                "坚定",
+                "勤奋",
+                "好学"
+            ],
+            "values": [
+                "教育提升",
+                "职业发展",
+                "家庭责任"
+            ],
+            "motivation": "通过学习技术技能，改善家庭经济状况，并为印尼的经济发展做出贡献",
+            "emotional_response": "面对挑战时表现出坚韧不拔，成功时感到自豪和满足",
+            "decision_style": "理性分析，长远规划",
+            "family_role": "家庭希望",
+            "job_role": "未来技术人才",
+            "social_network": [
+                "父母",
+                "大学同学",
+                "教授和导师",
+                "印尼技术社区成员"
+            ],
+            "social_identity": "印尼年轻技术人才",
+            "cultural_background": "穆罕默德·阿里出生在一个普通家庭，父母都是勤劳的工人。他从小就被灌输教育的重要性，并在家庭的支持下，努力学习，最终考入了一所知名的印尼大学。他的成长环境让他深知知识改变命运的重要性，因此他对学习充满热情。",
+            "social_class": "中产阶级",
+            "social_norms": "尊重师长，勤奋学习，家庭至上",
+            "life_experience": "穆罕默德·阿里在大学期间积极参与各种技术竞赛和实践活动，不断提升自己的技能。他曾获得过一次全国性的技术竞赛奖项，这让他更加坚定了自己的职业目标。他的经历让他认识到，只有不断学习和实践，才能在竞争激烈的社会中立足。",
+            "education_training": "穆罕默德·阿里目前在印尼一所大学攻读计算机科学专业，并计划在毕业后加入鲁班工坊进行进一步的技术培训。他对中国的职业教育体系充满兴趣，并希望通过学习，能够将先进的技术带回印尼，为印尼的科技发展做出贡献。",
+            "social_participation": "穆罕默德·阿里积极参与学校的各种社团活动，并在社区中推广科技教育的重要性。他还计划在未来参与鲁班工坊的志愿者活动，帮助更多的印尼年轻人了解和学习技术。",
+            "opinion": "穆罕默德·阿里认为，鲁班工坊的建立对印尼的技术人才培养具有重要意义。他认为，通过与中国职业院校的合作，印尼学生可以获得更多的学习机会和资源，提升自己的技术技能。他相信，随着鲁班工坊的发展，印尼的技术人才将得到更好的培养，从而推动印尼的经济发展。"
+        }
+    }
+]
